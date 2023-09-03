@@ -22,7 +22,7 @@
 <br>
 
 ***2. Upload***  
-Unzip the downloaded files and upload *update.py* file which is in the *Source* folder.
+Unzip the downloaded files and upload *update.py* file which is in the *Source* folder to the root folder.
 <br>
 <div align="center">
 <img src="Image/Upload.png" width="300px">
