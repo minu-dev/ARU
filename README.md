@@ -14,7 +14,7 @@
 
 ## 💾 Install
 
-***1️. Download this repository as ZIP***
+***1. Download this repository as ZIP***
 <br>
 <div align="center">
 <img src="Image/Download.png" width="300px">
