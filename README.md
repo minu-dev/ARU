@@ -40,3 +40,8 @@ Rename the file generated as an example to *update-readme.yml* and overwrite it 
 
 ***4. Done*** 😀  
 Let me show you an example
+<br>
+<div align="center">
+<img src="Image/Readme.png" width="800px">
+</div>
+<br>
