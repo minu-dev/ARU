@@ -2,7 +2,7 @@ import os
 from urllib import parse
 
 HEADER = "# Baekjoon\n"    # Enter the title you want
-DESC = "## This is automatic README.md update\n"    # Enter the description you want
+DESC = "Baekjoon Algorithm Practice\n"    # Enter the description you want
 TOTAL_TABLE_HEADER = "| Total |\n|:-----:|\n"
 TIER_TABLE_HEADER = "| Bronze | Silver | Gold | Platinum | Diamond | Ruby |\n|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|\n"
 PROBLEM_TABLE_HEADER = "| No. | Problem | Link |\n|:-----:|:-----:|:-----:|\n"
